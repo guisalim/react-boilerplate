@@ -1,4 +1,4 @@
-# BandsInTown Challenge
+# React Boilerplate Project
 A react boilerplate including redux, router, axios, enzyme, and proptypes already set up.
 
 
@@ -25,14 +25,14 @@ You should download, install and run locally this repo using the following comma
 
 - If you're using NPM
 ```
-git clone https://github.com/guisalim/bandsintown-challenge.git <your-project-name>
+git clone https://github.com/guisalim/react-boilerplate.git <your-project-name>
 cd <your-project-name>
 npm i
 npm start
 ```
 - If you're using YARN
 ```
-git clone https://github.com/guisalim/bandsintown-challenge.git <your-project-name>
+git clone https://github.com/guisalim/react-boilerplate.git <your-project-name>
 cd <your-project-name>
 yarn install
 yarn start
